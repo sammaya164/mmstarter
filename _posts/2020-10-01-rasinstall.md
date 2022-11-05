@@ -1,6 +1,9 @@
 ---
-categories: "ラズパイ"
-title: "#01_Raspberry Pi OSをインストールする"
+title: "Raspberry Pi OSをインストールする"
+categories:
+  - RaspberryPi
+tags:
+  - RaspberryPi
 ---
 
 ## インストール手順

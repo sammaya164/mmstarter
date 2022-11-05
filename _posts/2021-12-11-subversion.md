@@ -1,5 +1,6 @@
 ---
 title: subversion
+categories: Windows
 ---
 
 Windows版

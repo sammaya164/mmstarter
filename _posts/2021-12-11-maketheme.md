@@ -1,5 +1,7 @@
 ---
 title: "テーマの自作"
+categories: Jekyll
+tags: Jekyll
 ---
 
 ## 参考

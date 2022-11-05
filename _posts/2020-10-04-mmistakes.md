@@ -1,6 +1,10 @@
 ---
-title: "#04_JekyllのMinimal Mistakesテーマをインストールする"
-categories: "ラズパイ"
+title: "ラズパイ-JekyllのMinimal Mistakesテーマをインストールする"
+categories:
+  - RaspberryPi
+tags:
+  - RaspberryPi
+  - Jekyll
 ---
 
 ## Jekyllとは

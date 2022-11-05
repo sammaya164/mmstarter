@@ -1,7 +1,11 @@
 ---
-categories: "ニューラルネットワーク"
 title: "活性化関数#2"
 
+categories:
+  - VBScript
+tags:
+  - VBScript
+  - "ニューラルネットワーク"
 ---
 
 ## ソフトマックス関数

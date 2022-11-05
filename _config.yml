@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "電脳宮殿"
-subtitle: "コンピュータ関連のメモ"
+subtitle: "コンピュータ関連のメモ空間"
 email:
 description: # >- this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -71,7 +71,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/comp/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -83,7 +83,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/comp/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"

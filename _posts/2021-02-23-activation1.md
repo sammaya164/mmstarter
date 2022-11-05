@@ -1,7 +1,10 @@
 ---
-categories: "ニューラルネットワーク"
 title: "活性化関数#1"
-
+categories:
+  - VBScript
+tags:
+  - VBScript
+  - "ニューラルネットワーク"
 ---
 
 ## 活性化関数

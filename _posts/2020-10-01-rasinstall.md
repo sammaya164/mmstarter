@@ -1,5 +1,5 @@
 ---
-title: "Raspberry Pi OSをインストールする"
+title: "ラズパイ-Raspberry Pi OSをインストールする"
 categories:
   - RaspberryPi
 tags:
